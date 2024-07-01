@@ -5,7 +5,7 @@ main() {
   String x = a.toString();
   print(a);
   value = a.toDouble();
-  print(x.runtimeType);
+  print(a.runtimeType);
   print(value);
   x = value.toString();
   String numValue = '34';
