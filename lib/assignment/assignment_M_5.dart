@@ -36,9 +36,9 @@ class Car {
 }
 
 void main() {
-  Car car1 = Car('Toyota', 'Camry', 2015, 50000);
-  Car car2 = Car('Honda', 'Civic', 2018, 30000);
-  Car car3 = Car('Ford', 'Mustang', 2020, 10000);
+  Car car1 = Car('Toyota', 'Camry', 2015, 150000);
+  Car car2 = Car('Honda', 'Civic', 2020, 230000);
+  Car car3 = Car('Ford', 'Mustang', 2025,100000);
 
   car1.drive(1500);
   car2.drive(2000);
